@@ -1,3 +1,5 @@
+package Modul_5;
+
 public class Dinas {
     private String Alamat;
     private int PanjangTanah,LuasTanah;
